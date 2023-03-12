@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello 👋, I am Alejandro
 
-<!--
-**Ale784/Ale784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Give a sneak peek of portfolio at 
+* You can contect me by email
+* I am learning React
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack
+* 💻 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=Java&logoColor=007396)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=Java&logoColor=007396) 
+![javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Java&logoColor=007396)
+* 🌐 
+* 🛠️ ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=Java&logoColor=007396) 
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Java&logoColor=007396)
+* 🛢 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=Java&logoColor=007396)
+* 🔧![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Java&logoColor=007396) 
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=Java&logoColor=007396)
